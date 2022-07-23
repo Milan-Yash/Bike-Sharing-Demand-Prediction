@@ -66,6 +66,7 @@ Conclusions
 ● For all the models, temperature or hour was ranked as the most influential variable to predict the rental bike demand at each hour.
 
 📜 Credits
+
 Yash Srivastava
 
 📚 References
